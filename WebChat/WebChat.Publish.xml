@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Allen\WebSite\MBChat" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Register.aspx" publishTime="01/20/2016 14:06:29" />
+    <file relUrl="bin/WebChat.pdb" publishTime="01/20/2016 14:32:52" />
+    <file relUrl="Web.config" publishTime="01/20/2016 14:32:55" />
+    <file relUrl="bin/WebChat.dll" publishTime="01/20/2016 14:32:52" />
+  </publishProfile>
+</publishData>

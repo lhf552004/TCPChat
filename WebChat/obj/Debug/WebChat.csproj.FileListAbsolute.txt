@@ -1,0 +1,8 @@
+C:\Allen\Projects\MyProjects\TCPService\WebChat\bin\WebChat.dll
+C:\Allen\Projects\MyProjects\TCPService\WebChat\bin\WebChat.pdb
+C:\Allen\Projects\MyProjects\TCPService\WebChat\obj\Debug\WebChat.dll
+C:\Allen\Projects\MyProjects\TCPService\WebChat\obj\Debug\WebChat.pdb
+C:\Allen\Projects\MyProjects\TCPChat\WebChat\bin\WebChat.dll
+C:\Allen\Projects\MyProjects\TCPChat\WebChat\bin\WebChat.pdb
+C:\Allen\Projects\MyProjects\TCPChat\WebChat\obj\Debug\WebChat.dll
+C:\Allen\Projects\MyProjects\TCPChat\WebChat\obj\Debug\WebChat.pdb

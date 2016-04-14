@@ -1,0 +1,10 @@
+C:\Allen\Projects\MyProjects\TCPService\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Allen\Projects\MyProjects\TCPService\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Allen\Projects\MyProjects\TCPService\WindowsService1\obj\x86\Debug\WindowsService1.exe
+C:\Allen\Projects\MyProjects\TCPService\WindowsService1\obj\x86\Debug\WindowsService1.pdb
+C:\Allen\Projects\MyProjects\TCPService\WindowsService1\obj\x86\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+C:\Allen\Projects\MyProjects\TCPChat\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Allen\Projects\MyProjects\TCPChat\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Allen\Projects\MyProjects\TCPChat\WindowsService1\obj\x86\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+C:\Allen\Projects\MyProjects\TCPChat\WindowsService1\obj\x86\Debug\WindowsService1.exe
+C:\Allen\Projects\MyProjects\TCPChat\WindowsService1\obj\x86\Debug\WindowsService1.pdb

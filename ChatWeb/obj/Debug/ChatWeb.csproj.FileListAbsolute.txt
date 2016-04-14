@@ -1,0 +1,8 @@
+C:\Allen\Projects\MyProjects\TCPService\ChatWeb\bin\ChatWeb.dll
+C:\Allen\Projects\MyProjects\TCPService\ChatWeb\bin\ChatWeb.pdb
+C:\Allen\Projects\MyProjects\TCPService\ChatWeb\obj\Debug\ChatWeb.dll
+C:\Allen\Projects\MyProjects\TCPService\ChatWeb\obj\Debug\ChatWeb.pdb
+C:\Allen\Projects\MyProjects\TCPChat\ChatWeb\bin\ChatWeb.dll
+C:\Allen\Projects\MyProjects\TCPChat\ChatWeb\bin\ChatWeb.pdb
+C:\Allen\Projects\MyProjects\TCPChat\ChatWeb\obj\Debug\ChatWeb.dll
+C:\Allen\Projects\MyProjects\TCPChat\ChatWeb\obj\Debug\ChatWeb.pdb

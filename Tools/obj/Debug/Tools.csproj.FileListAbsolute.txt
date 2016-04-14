@@ -1,0 +1,11 @@
+C:\Allen\Projects\MyProjects\TCPService\Tools\bin\Debug\Tools.dll
+C:\Allen\Projects\MyProjects\TCPService\Tools\bin\Debug\Tools.pdb
+C:\Allen\Projects\MyProjects\TCPService\Tools\obj\Debug\Tools.dll
+C:\Allen\Projects\MyProjects\TCPService\Tools\obj\Debug\Tools.pdb
+C:\Allen\Projects\MyProjects\TCPChat\Tools\obj\Debug\Tools.dll
+C:\Allen\Projects\MyProjects\TCPChat\Tools\obj\Debug\Tools.pdb
+C:\Allen\Projects\MyProjects\TCPChat\Tools\bin\Debug\Tools.dll
+C:\Allen\Projects\MyProjects\TCPChat\Tools\bin\Debug\Tools.pdb
+C:\Allen\Projects\MyProjects\TCPChat\Tools\bin\Debug\Newtonsoft.Json.dll
+C:\Allen\Projects\MyProjects\TCPChat\Tools\bin\Debug\Newtonsoft.Json.pdb
+C:\Allen\Projects\MyProjects\TCPChat\Tools\bin\Debug\Newtonsoft.Json.xml

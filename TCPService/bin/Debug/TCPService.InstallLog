@@ -1,0 +1,169 @@
+﻿Installing assembly 'C:\Allen\Projects\MyProjects\TCPService\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPService\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPService\TCPService\bin\Debug\TCPService.exe
+Installing service ChatService...
+Service ChatService has been successfully installed.
+Creating EventLog source ChatService in log Application...
+Committing assembly 'C:\Allen\Projects\MyProjects\TCPService\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPService\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPService\TCPService\bin\Debug\TCPService.exe
+Installing assembly 'C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe
+Installing service ChatService...
+Service ChatService has been successfully installed.
+Creating EventLog source ChatService in log Application...
+Committing assembly 'C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe
+Installing assembly 'C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe
+Installing service ChatService...
+Service ChatService has been successfully installed.
+Creating EventLog source ChatService in log Application...
+Committing assembly 'C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe
+Installing assembly 'C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe
+Installing service ChatService...
+Service ChatService has been successfully installed.
+Creating EventLog source ChatService in log Application...
+Committing assembly 'C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe
+Installing assembly 'C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe
+Installing service ChatService...
+Service ChatService has been successfully installed.
+Creating EventLog source ChatService in log Application...
+Committing assembly 'C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe
+Installing assembly 'C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe
+Installing service ChatService...
+Service ChatService has been successfully installed.
+Creating EventLog source ChatService in log Application...
+Committing assembly 'C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe
+Installing assembly 'C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe
+Installing service ChatService...
+Service ChatService has been successfully installed.
+Creating EventLog source ChatService in log Application...
+Committing assembly 'C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe
+Installing assembly 'C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe
+Installing service ChatService...
+Service ChatService has been successfully installed.
+Creating EventLog source ChatService in log Application...
+Committing assembly 'C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe
+Installing assembly 'C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe
+Installing service ChatService...
+Service ChatService has been successfully installed.
+Creating EventLog source ChatService in log Application...
+Committing assembly 'C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe
+Installing assembly 'C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe
+Installing service ChatService...
+Service ChatService has been successfully installed.
+Creating EventLog source ChatService in log Application...
+Committing assembly 'C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe
+Installing assembly 'C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe
+Installing service ChatService...
+Service ChatService has been successfully installed.
+Creating EventLog source ChatService in log Application...
+Committing assembly 'C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe
+Installing assembly 'C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe
+Installing service ChatService...
+Creating EventLog source ChatService in log Application...
+Rolling back assembly 'C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe
+Restoring event log to previous state for source ChatService.
+Installing assembly 'C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe
+Installing service ChatService...
+Service ChatService has been successfully installed.
+Creating EventLog source ChatService in log Application...
+Committing assembly 'C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.InstallLog
+   assemblypath = C:\Allen\Projects\MyProjects\TCPChat\TCPService\bin\Debug\TCPService.exe

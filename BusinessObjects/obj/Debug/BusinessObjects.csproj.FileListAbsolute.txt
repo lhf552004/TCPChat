@@ -1,0 +1,8 @@
+C:\Allen\Projects\MyProjects\TCPService\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Allen\Projects\MyProjects\TCPService\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Allen\Projects\MyProjects\TCPService\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Allen\Projects\MyProjects\TCPService\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Allen\Projects\MyProjects\TCPChat\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Allen\Projects\MyProjects\TCPChat\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Allen\Projects\MyProjects\TCPChat\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Allen\Projects\MyProjects\TCPChat\BusinessObjects\obj\Debug\BusinessObjects.pdb
